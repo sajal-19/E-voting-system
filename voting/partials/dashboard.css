@@ -1,0 +1,19 @@
+img{
+    width:100px;
+    height:100px;
+
+    object-fit:contain;
+}
+.color
+{
+   background-color: red;
+}
+.t1
+{
+    color: gray;
+    text-align: center;
+}
+.t2
+{
+    color: black;
+}
